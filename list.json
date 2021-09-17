@@ -15,7 +15,7 @@
   "tokens": [
     {
       "name": "NuggetSwap Token",
-      "address": "0xcc1da2eaa0150b958fd30c3b849d9efe1d365aed",
+      "address": "0x9e206e9792a0a40b38862d088d4115b26cdd2ed0",
       "symbol": "NUGGET",
       "decimals": 18,
       "chainId": 250,
