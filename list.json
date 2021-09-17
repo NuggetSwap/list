@@ -1,25 +1,81 @@
 {
-  "name": "NuggetSwap Token List",
+  "name": "Fantom Token List",
+  "timestamp": "2021-09-1712:02:00.269Z",
   "version": {
-      "major": 0,
-      "minor": 2,
-      "patch": 0
+    "major": 1,
+    "minor": 9,
+    "patch": 29
   },
+  "tags": {},
+  "logoURI": "https://tokens.nuggetswap.finance/images/0x9e206e9792a0a40b38862d088d4115b26cdd2ed0.png",
   "keywords": [
-      "nugget",
-      "nuggetswap",
-      "fantom"
+    "0x1Exchange",
+    "default"
   ],
-  "logoURI": "https://nuggetswap.finance/images/logo.png",
-  "timestamp": "2021-09-17T14:15:22+0000",
   "tokens": [
-      {
-          "name": "NuggetSwap Token",
-          "chainId": 250,
-          "symbol": "NUGGET",
-          "decimals": 18,
-          "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-          "logoURI": "https://nuggetswap.finance/images/favicon.ico"
-      }
+    {
+      "name": "NuggetSwap Token",
+      "address": "0xcc1da2eaa0150b958fd30c3b849d9efe1d365aed",
+      "symbol": "NUGGET",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.nuggetswap.finance/images/0x9e206e9792a0a40b38862d088d4115b26cdd2ed0.png"
+    },
+    {
+      "name": "Wrapped Fantom",
+      "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+      "symbol": "WFTM",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.nuggetswap.finance/images/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83.png"
+    },
+    {
+      "name": "DAI Stablecoin",
+      "address": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.nuggetswap.finance/images/0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 250,
+      "logoURI": "https://tokens.nuggetswap.finance/images/0x04068da6c83afcfa0e13ba15a6696662335d5b75.png"
+    },
+    {
+      "name": "fBTC",
+      "address": "0xe1146b9ac456fcbb60644c36fd3f868a9072fc6e",
+      "symbol": "fBTC",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.nuggetswap.finance/images/0xe1146b9ac456fcbb60644c36fd3f868a9072fc6e.png"
+    },
+    {
+      "name": "fETH",
+      "address": "0x658b0c7613e890ee50b8c4bc6a3f41ef411208ad",
+      "symbol": "fETH",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.nuggetswap.finance/images/0x658b0c7613e890ee50b8c4bc6a3f41ef411208ad.png"
+    },
+    {
+      "name": "ChainLink",
+      "address": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.nuggetswap.finance/images/0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8.png"
+    },
+    {
+      "name": "Bitcoin Token",
+      "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.nuggetswap.finance/images/0x321162Cd933E2Be498Cd2267a90534A804051b11.png"
+    }
   ]
 }
