@@ -1,18 +1,4 @@
-{
-  "name": "Fantom Token List",
-  "timestamp": "2021-09-1712:02:00.269Z",
-  "version": {
-    "major": 1,
-    "minor": 9,
-    "patch": 29
-  },
-  "tags": {},
-  "logoURI": "https://tokens.nuggetswap.finance/images/0x9e206e9792a0a40b38862d088d4115b26cdd2ed0.png",
-  "keywords": [
-    "0x1Exchange",
-    "default"
-  ],
-  "tokens": [
+[
     {
       "name": "NuggetSwap Token",
       "address": "0x9e206e9792a0a40b38862d088d4115b26cdd2ed0",
@@ -77,5 +63,5 @@
       "chainId": 250,
       "logoURI": "https://tokens.nuggetswap.finance/images/0x321162Cd933E2Be498Cd2267a90534A804051b11.png"
     }
-  ]
-}
+]
+
