@@ -1,0 +1,25 @@
+{
+  "name": "NuggetSwap Token List",
+  "version": {
+      "major": 0,
+      "minor": 2,
+      "patch": 0
+  },
+  "keywords": [
+      "nugget",
+      "nuggetswap",
+      "fantom"
+  ],
+  "logoURI": "https://nuggetswap.finance/images/logo.png",
+  "timestamp": "2021-09-17T14:15:22+0000",
+  "tokens": [
+      {
+          "name": "NuggetSwap Token",
+          "chainId": 250,
+          "symbol": "NUGGET",
+          "decimals": 18,
+          "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+          "logoURI": "https://nuggetswap.finance/images/favicon.ico"
+      }
+  ]
+}
